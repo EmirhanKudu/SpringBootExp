@@ -23,9 +23,9 @@ public class KisiController {
     @PostConstruct // kisi olusturmak icin.
     public void init(){
         Kisi kisi =new Kisi();
-        kisi.setAd("Huseyin");
-        kisi.setSoyad("Erkek");
-        kisi.setAdres("Dirim Sok");
+        kisi.setAd("Emirhan");
+        kisi.setSoyad("Kudu");
+        kisi.setAdres("Example Sokak");
         kisi.setDogumTarihi(Calendar.getInstance().getTime());
         kisi.setId("K0001");
         kisiRepository.save(kisi);
