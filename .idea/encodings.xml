@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/spring-Elasticsearch/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-Elasticsearch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-datajpa-postgresql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-datajpa-postgresql/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-hello-world/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-hello-world/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-mongo-db-rest-api/src/main/java" charset="UTF-8" />

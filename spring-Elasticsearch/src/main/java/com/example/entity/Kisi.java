@@ -15,7 +15,7 @@ import org.springframework.data.elasticsearch.annotations.FieldType;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class Kisi {
+public classKisi {
 
     @Id
     private String id;
